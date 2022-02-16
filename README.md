@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! My name is Sabrina!
 
-<!--
-**Sabrina-Poderis/Sabrina-Poderis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sabrina-poderis/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:sabrina.poderis@gmail.com/)
 
-Here are some ideas to get you started:
+![GIF Computer Workspace](https://data.whicdn.com/images/325875578/original.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: I'm Web Developer!
+- :house: I’m from Brazil
+- :books: I’m currently learning everything
+- :outbox_tray: 2022 Goals: Update my skills in software engineering
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina-Poderis)](https://github.com/Sabrina-Poderis/github-readme-stats)
+
+Thanks for visiting! ❤️ Enjoy it!! o/
+
+![GIF Computer Typing](https://c.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif)
