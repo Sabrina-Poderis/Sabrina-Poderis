@@ -23,8 +23,8 @@
 - I don't like starfishes ⭐
 
 ## GitHub Info ℹ️
-[![Sabrina-Poderis' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina-Poderis&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/Sabrina-Poderis/)
-![Sabrina-Poderis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabrina-Poderis&show_icons=true&theme=tokyonight)
+[![Sabrina-Poderis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabrina-Poderis&show_icons=true&theme=tokyonight)](https://github.com/Sabrina-Poderis/)
+[![Sabrina-Poderis' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina-Poderis&hide=html,blade,handlebars,shell&layout=compact&theme=tokyonight)](https://github.com/Sabrina-Poderis/)
 
 <h4 align="center">
 
@@ -33,3 +33,5 @@
 Thanks for visiting! ❤️ Enjoy it!! o/
 
 </h4>
+
+![Sabrina-Poderis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabrina-Poderis&show_icons=true&theme=tokyonight)
