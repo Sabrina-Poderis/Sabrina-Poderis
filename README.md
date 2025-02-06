@@ -30,6 +30,8 @@ Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resul
 
 > 🏗️Obs: Estou dando uma faxina no portfólio, jajá essa sessão estará concluída 🚧
 
+- [Simulador de provas do Detran SP](https://github.com/Sabrina-Poderis/detran-sp-practice-exam)
+
 ## Minha Stack
 
 ### 📌 Classificação de Conhecimentos 
