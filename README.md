@@ -81,10 +81,10 @@ Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resul
 ### 🎨 Design
 - ![Adobe XD][adobe-xd]
     - ![Explorado][explorado], ![Uso Profissional][uso_profissional]
-- ![Figma][figma], ![Familiaridade inicial][familiaridade_inicial]
-    - ![Uso frequente][uso_frequente], ![Uso Profissional][uso_profissional]
-- ![Storybook][storybook], ![Familiaridade inicial][familiaridade_inicial]
-    - ![Uso frequente][uso_frequente], ![Uso Profissional][uso_profissional], ![Domínio amplo][dominio_amplo]
+- ![Figma][figma]
+    - ![Uso frequente][uso_frequente], ![Uso Profissional][uso_profissional], ![Familiaridade inicial][familiaridade_inicial]
+- ![Storybook][storybook]
+    - ![Uso frequente][uso_frequente], ![Uso Profissional][uso_profissional], ![Domínio amplo][dominio_amplo], ![Familiaridade inicial][familiaridade_inicial]
 
 ### 📚 Frameworks, Platformas e Bibliotecas
 - ![Bootstrap][bootstrap]
