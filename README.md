@@ -4,7 +4,7 @@
 # Olá, me chamo Sabrina! 👋
 
 Sou uma Desenvolvedora Full Stack que ama transformar ideias em código! 💡✨ 
-Trabalho com React e React Native, gosto de organizar processos e faço questão de documentar tudo📑!
+Trabalho com React, React Native e Typesctipt, gosto de organizar processos e faço questão de documentar tudo 📑!
 
 Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resultados no backend e mobile – tanto que, ultimamente, tenho mergulhado ainda mais no mundo do backend 🖥️.
 
