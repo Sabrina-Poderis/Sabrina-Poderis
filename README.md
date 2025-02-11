@@ -115,7 +115,7 @@ Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resul
 | ![Datadog][datadog] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
 | ![Dynatrace][dynatrace] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
 
-🧪 📊 Testes
+### 🧪 Testes
 |  Testes | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
 | --- | --- | --- | --- |
 | ![Jest][jest] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
@@ -125,8 +125,15 @@ Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resul
 [![github_stats]](https://github.com/Sabrina-Poderis/)
 [![github_langs]](https://github.com/Sabrina-Poderis/)
 
+---
+
+> Opa! Chegou até aqui? Espero que tenha gostado do meu perfil, se quiser pode me chamar no linkedin ou dar uma olhadinha nos meus projetos! 😊
+
+[![logo_linkedin]](https://www.linkedin.com/in/sabrina-poderis)  
+[![back-to-top]](#olá-me-chamo-sabrina-)  
 <!-- Lista de Links -->
 
+[back-to-top]: https://img.shields.io/badge/Voltar_ao_início-0ab855?style=for-the-badge
 [adobe-xd]: https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6
 [aws]: https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white
 [azure]: https://img.shields.io/badge/azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white
