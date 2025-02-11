@@ -1,4 +1,3 @@
-
 ![Gif decorativo do meu workspace][gif_workspace]
 
 # Olá, me chamo Sabrina! 👋
@@ -33,93 +32,28 @@ Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resul
 - [Simulador de provas do Detran SP](https://github.com/Sabrina-Poderis/detran-sp-practice-exam)
 
 ## Minha Stack
-
-### 📋 Linguagens
-| Linguagem | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
-| --- | --- | --- | --- |
-| ![TypeScript][typescript] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![JavaScript][javascript] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![HTML5][html5] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![CSS3][css3] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![Markdown][markdown] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![PHP][php] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![Java][java] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
-| ![Kotlin][kotlin] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
-| ![Objective-C][objective-c] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
-| ![C][c] | ![Explorado][explorado] | ![Conhecimento teórico][conhecimento_teorico] | |
-
-### 🖼️  Frameworks
-| Framework | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
-| --- | --- | --- | --- |
-| ![Express.js][express] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![React Native][react-native] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![Laravel][laravel] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] |
-
-### 📚 Bibliotecas
-| Biblioteca | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
+| Tech | Uso e familiaridade | Contexto de aplicação | Domínio de funcionalidades |
 | --- | --- | --- | --- |
 | ![React][react] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
+| ![React Native][react-native] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
 | ![Redux][redux] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![JWT][jwt] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![Handlebars][handlebars] | ![Explorado][explorado] | ![Uso em projetos pessoais][uso_projetos_pessoais] | ![Familiaridade inicial][familiaridade_inicial] |
-| ![jQuery][jquery] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] |
-
-### 🛠️ Plataformas
-| Plataforma | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
-| --- | --- | --- | --- |
-| ![NodeJS][nodejs] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
+| ![TypeScript][typescript] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
+| ![Jest][jest] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
+| ![Vitest][vitest] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
 | ![Azure][azure] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![Firebase][firebase] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
 | ![AWS][aws] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
-| ![Docker][docker] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
-| ![Heroku][heroku] | ![Explorado][explorado] | ![Uso em projetos pessoais][uso_projetos_pessoais] | ![Familiaridade inicial][familiaridade_inicial] |
-
-### 💾 Databases
-| Database | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
-| --- | --- | --- | --- |
+| ![Datadog][datadog] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
+| ![Dynatrace][dynatrace] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
+| ![Firebase][firebase] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
 | ![MongoDB][mongodb] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
 | ![MySQL][mysql] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-| ![Microsoft SQL Server][microsoft_sql_server] | ![Explorado][explorado]| ![Conhecimento teórico][conhecimento_teorico] | ![Familiaridade inicial][familiaridade_inicial] |
-| ![redis][redis] |![Explorado][explorado] | ![Conhecimento teórico][conhecimento_teorico] | ![Familiaridade inicial][familiaridade_inicial] |
-
-### 🎋 ORM
-| ORM | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
-| --- | --- | --- | --- |
-| ![Prisma][prisma] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
-
-### 🎨 Componentes
-| Componente | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
-| --- | --- | --- | --- |
+| ![Docker][docker] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
+| ![Markdown][markdown] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
 | ![Styled Components][styled-components] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] |
 | ![Storybook][storybook] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Domínio amplo][dominio_amplo] | ![Familiaridade inicial][familiaridade_inicial] |
 | ![Bootstrap][bootstrap] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
 | ![MUI][mui] | ![Explorado][explorado] |![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
 | ![TailwindCSS][tailwind_css] | ![Explorado][explorado] | ![Uso em projetos pessoais][uso_projetos_pessoais] | ![Familiaridade inicial][familiaridade_inicial] |
-
-### 🎨 Design
-| Design | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
-| --- | --- | --- | --- |
-| ![Adobe XD][adobe-xd] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
-| ![Figma][figma] | ![Uso frequente][uso_frequente] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
-
-### 🛠️ Ferramentas de Desenvolvimento
-| Ferramenta de Desenvolvimento | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
-| --- | --- | --- | --- |
-| ![Nodemon][nodemon] | ![Uso ocasional][uso_ocasional] | ![Uso em projetos pessoais][uso_projetos_pessoais] | |
-| ![Postman][postman] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
-| ![Insomnia][insomnia] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
-
-### 📊 Ferramentas de Monitoramento
-|  Ferramenta de Monitoramento | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
-| --- | --- | --- | --- |
-| ![Datadog][datadog] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
-| ![Dynatrace][dynatrace] | ![Explorado][explorado] | ![Uso Profissional][uso_profissional] | ![Familiaridade inicial][familiaridade_inicial] |
-
-### 🧪 Testes
-|  Testes | Classificação por uso e familiaridade | Classificação por contexto de aplicação | Classificação por domínio de funcionalidades |
-| --- | --- | --- | --- |
-| ![Jest][jest] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
-| ![Vitest][vitest] | ![Uso ocasional][uso_ocasional] | ![Uso Profissional][uso_profissional] | ![Uso parcial][uso_parcial] |
 
 ## GitHub 💾
 [![github_stats]](https://github.com/Sabrina-Poderis/)
