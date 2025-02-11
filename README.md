@@ -77,9 +77,8 @@ Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resul
 
 [![logo_linkedin]](https://www.linkedin.com/in/sabrina-poderis)  
 [![back-to-top]](#olá-me-chamo-sabrina-)  
-<!-- Lista de Links -->
-Aqui estão os links no mesmo estilo para as novas classificações:  
 
+<!-- Lista de Links -->
 [especialista]: https://img.shields.io/badge/🔥_especialista-8B0000?style=for-the-badge  
 [desenvolvedor_avancado]: https://img.shields.io/badge/🚀_desenvolvimento_avançado-FF4500?style=for-the-badge  
 [usuario_competente]: https://img.shields.io/badge/⚒️_usuário_competente-4682B4?style=for-the-badge 
