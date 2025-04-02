@@ -13,6 +13,8 @@ Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resul
 
 [![logo_linkedin]](https://www.linkedin.com/in/sabrina-poderis)  
 [![logo_gmail]](mailto:sabrina.poderis@gmail.com)  
+[![logo_pholio]](https://sabrina-poderis.github.io/portfolio/)  
+
 
 ## Meu foco atual 🎯
 
@@ -43,7 +45,6 @@ Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resul
 
 > Opa! Chegou até aqui? Espero que tenha gostado do meu perfil, se quiser pode me chamar no linkedin ou dar uma olhadinha nos meus projetos! 😊
 
-[![logo_linkedin]](https://www.linkedin.com/in/sabrina-poderis)  
 [![back-to-top]](#olá-me-chamo-sabrina-)  
 
 <!-- Lista de Links -->
@@ -52,4 +53,5 @@ Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resul
 [github_stats]: https://github-readme-stats.vercel.app/api?username=Sabrina-Poderis&show_icons=true&theme=tokyonight
 [logo_gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [logo_linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[logo_pholio]: https://img.shields.io/badge/Portfolio-227c9d?style=for-the-badge
 [back-to-top]: https://img.shields.io/badge/Voltar_ao_início-0ab855?style=for-the-badge
