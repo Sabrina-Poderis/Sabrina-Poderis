@@ -18,10 +18,10 @@ Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resul
 
 ## Meu foco atual 🎯
 
-- React
-- Typescript
-- Clean Architecture
+- React e Typescript
 - Melhorar meus conhecimentos de documentação de software e projetos
+- Estou explorando melhor as funcionalidades do Github como templates e github actions para tentar automatizar alguns processos de logs!
+  - Vou detalhar isso melhor conforme a minha evolução
 
 ## Fatos sobre mim 📌
 
