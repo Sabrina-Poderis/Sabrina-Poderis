@@ -5,8 +5,6 @@
 Sou uma Desenvolvedora Full Stack que ama transformar ideias em código! 💡✨
 Trabalho com React, React Native e Typesctipt, gosto de organizar processos e faço questão de documentar tudo 📑!
 
-Embora meu coração bata mais forte pelo frontend, já conquistei ótimos resultados no backend e mobile – tanto que, ultimamente, tenho mergulhado ainda mais no mundo do backend 🖥️.
-
 📈 Sempre busco novas tecnologias para aumentar agilidade e produtividade, garantindo um fluxo de trabalho eficiente. Atualmente, estou aprofundando meus estudos em SOLID para aprimorar a estrutura dos meus algoritmos e escrever um código mais escalável e sustentável.
 
 💬 Comunicativa, colaborativa e sempre pronta para aprender e compartilhar conhecimento! Vamos trocar uma ideia? 😊🚀
